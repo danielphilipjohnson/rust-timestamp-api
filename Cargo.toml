@@ -1,0 +1,15 @@
+[package]
+name = "timestamp_microservice"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = { version = "4.9.0"}  # Include test feature here
+chrono = { version = "0.4", features = ["serde"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+chrono-tz = "0.10.1"
+derive_more = "0.99"
+
+[dev-dependencies]
+actix-rt = "2.8"  
