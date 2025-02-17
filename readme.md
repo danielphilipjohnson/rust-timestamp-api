@@ -231,6 +231,4 @@ The tutorial covers:
 - Performance optimization tips
 
 ## 🔗 Contact
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- Blog: [dev.to/yourusername](https://dev.to/yourusername)
+- Blog: [dev.to/danielphilipjohnson](https://dev.to/danielphilipjohnson)
